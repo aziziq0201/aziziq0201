@@ -144,11 +144,9 @@ A collection of my daily web development learning and practice.
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aziziq0201&theme=tokyo-night&hide_border=true" />
-</p>
+📊 GitHub Stats
+🔥 GitHub Streak
+🐍 Contribution Snake
 
 ---
 
