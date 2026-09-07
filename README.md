@@ -141,6 +141,28 @@ A collection of my daily web development learning and practice.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/aziziq0201/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/aziziq0201/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://codolio.com/profile/aziziq0201">
+  <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🧩 LeetCode Activity
+
+<p align="center">
+  <a href="https://leetcode.com/u/aziziq0201/">
+    <img src="https://leetcard.jacoblin.cool/aziziq0201?theme=tokyonight&ext=heatmap" />
+  </a>
 </p>
 
 ---
