@@ -12,13 +12,16 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. Information Technology student
-- 💻 Passionate about Software Development
-- 🌐 Learning Web Development
-- 🧠 Practicing Data Structures & Algorithms
-- 🐧 Exploring Linux
-- 🚀 Building projects and improving every day
-- 🎯 Interested in Software Engineering opportunities
+🎓 I'm an Information Technology engineering student passionate about building software and learning how things work under the hood.
+
+- 💻 Focused on Software Development & Web Development
+- 🧠 Consistently practicing Data Structures & Algorithms
+- 🌐 Building responsive and interactive web projects
+- 🐧 Exploring Linux, Git and developer tools
+- 🚀 Turning what I learn into practical projects
+- 🎯 Currently working towards Software Engineering opportunities
+
+> **Learn → Build → Break → Fix → Repeat 🚀**
 
 ---
 
