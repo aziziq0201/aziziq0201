@@ -83,7 +83,7 @@ A responsive e-commerce website built with HTML, CSS and JavaScript.
 ### 💻 DSA Practice
 My ongoing collection of Data Structures & Algorithms problems and solutions in C++.
 
-🔗 [View Repository](https://github.com/aziziq0201/DSA_journey)
+🔗 <a href="https://github.com/aziziq0201/DSA_journey">View Repository</a>
 ---
 
 ### 🌐 Web Development Journey
