@@ -107,17 +107,6 @@ A collection of my daily web development learning and practice.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aziziq0201&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziziq0201&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -168,7 +157,18 @@ A collection of my daily web development learning and practice.
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aziziq0201&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziziq0201&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
+
 
 <p align="center">
   <i>Code. Learn. Build. Repeat. 🚀</i>
