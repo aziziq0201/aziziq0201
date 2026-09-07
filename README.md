@@ -64,12 +64,14 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
 Personal portfolio website showcasing my skills, projects and achievements.
 
 🔗 [View Project](https://aziziq0201.github.io/ShadowFox/)
+
 
 ---
 
@@ -78,12 +80,15 @@ A responsive e-commerce website built with HTML, CSS and JavaScript.
 
 🔗 [Live Demo](https://aziziq0201.github.io/ShadowFox/E-commerce/)
 
+
 ---
 
 ### 💻 DSA Practice
 My ongoing collection of Data Structures & Algorithms problems and solutions in C++.
 
-🔗 <a href="https://github.com/aziziq0201/DSA_journey">View Repository</a>
+<p>🔗 <a href="https://github.com/aziziq0201/DSA_journey">View Repository</a></p>
+
+
 ---
 
 ### 🌐 Web Development Journey
@@ -92,6 +97,7 @@ A collection of my daily web development learning and practice.
 🔗 [View Repository](https://github.com/aziziq0201/Apna-College-WebDev-Journey)
 
 ---
+
 
 ## 🧠 Data Structures & Algorithms
 
@@ -103,6 +109,7 @@ A collection of my daily web development learning and practice.
 - 📌 Searching & Sorting
 - 📌 Recursion
 - 📌 Algorithms & Problem Solving
+
 
 ---
 
@@ -143,7 +150,9 @@ A collection of my daily web development learning and practice.
 
 </p>
 
+
 ---
+
 
 ## 🧩 Coding Practice
 
@@ -166,9 +175,13 @@ A collection of my daily web development learning and practice.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziziq0201&theme=tokyonight&hide_border=true" />
 </p>
 
+
 ---
 
 
+
 <p align="center">
-  <i>Code. Learn. Build. Repeat. 🚀</i>
+  <b>🚀 Code. Learn. Build. Repeat.</b>
+  <br>
+  <sub>Turning ideas into projects, one commit at a time.</sub>
 </p>
