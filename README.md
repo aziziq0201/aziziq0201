@@ -125,11 +125,7 @@ A collection of my daily web development learning and practice.
   <img src="https://raw.githubusercontent.com/aziziq0201/aziziq0201/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
-📊 GitHub Stats
-🔥 GitHub Streak
-🐍 Contribution Snake
 
 ---
 
