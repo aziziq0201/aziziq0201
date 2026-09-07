@@ -84,20 +84,30 @@
 ## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
+Personal portfolio website showcasing my skills, projects and achievements.
 
-A personal portfolio website showcasing my skills, projects and achievements.
+🔗 [View Project](https://aziziq0201.github.io/ShadowFox/)
+
+---
 
 ### 🛒 TechStore
+A responsive e-commerce website built with HTML, CSS and JavaScript.
 
-A responsive e-commerce website built using HTML, CSS and JavaScript.
+🔗 [Live Demo](https://aziziq0201.github.io/ShadowFox/E-commerce/)
+
+---
 
 ### 💻 DSA Practice
+My ongoing collection of Data Structures & Algorithms problems and solutions in C++.
 
-A collection of Data Structures & Algorithms problems and solutions.
+🔗 [View Repository](https://github.com/aziziq0201/DSAPractice)
+
+---
 
 ### 🌐 Web Development Journey
+A collection of my daily web development learning and practice.
 
-My ongoing journey of learning and practicing Web Development.
+🔗 [View Repository](https://github.com/aziziq0201/Apna-College-WebDev-Journey)
 
 ---
 
