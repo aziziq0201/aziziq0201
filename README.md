@@ -157,11 +157,14 @@ A collection of my daily web development learning and practice.
 
 ---
 
-## 🧩 LeetCode Activity
+## 🧩 Coding Practice
 
 <p align="center">
   <a href="https://leetcode.com/u/aziziq0201/">
-    <img src="https://leetcard.jacoblin.cool/aziziq0201?theme=tokyonight&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/aziziq0201?theme=dark" width="48%" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/aziziq0201/">
+    <img src="https://gfgstatscard.vercel.app/aziziq0201" width="48%" />
   </a>
 </p>
 
